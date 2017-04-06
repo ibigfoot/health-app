@@ -10,6 +10,7 @@ git checkout
 cd health-app
 sfdx force:org:create -s -f config/workspace-scratch-def.json
 sfdx force:source:push
+sfdx force:user:permset:assign -n Health_App_User
 sfdx force:apex:test 
 sfdx force:org:open
 ```
