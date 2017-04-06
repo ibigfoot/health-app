@@ -1,0 +1,10 @@
+{
+  "Company": "Health App",
+  "Country": "AU",
+  "LastName": "tsellers",
+  "Email": "tsellers@heroku.com",
+  "Edition": "Enterprise",
+  "OrgPreferences" : {
+    "S1DesktopEnabled" : true
+  }
+}
